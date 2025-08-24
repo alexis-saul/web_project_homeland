@@ -11,4 +11,4 @@ Pagina web de la galeria de TripleTen, donde se muestraan las ciudades natales d
 
 # Enlace del proyecto en GitHub Pages
 
-https://github.com/alexis-saul/web_project_homeland.git
+https://alexis-saul.github.io/web_project_homeland/
