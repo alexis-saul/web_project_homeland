@@ -8,6 +8,8 @@ Pagina web de la galeria de TripleTen, donde se muestraan las ciudades natales d
 -FlexBox
 -Metolodgia Bem
 -Diseño Responsivo
+-Grid
+-posicionamiento
 
 # Enlace del proyecto en GitHub Pages
 
